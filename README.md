@@ -14,8 +14,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old e atualmente moro no Brasil. estou aprendendo python e javascript, esta sendo uma Experiência meio Dificil, Mas NÃO vou Desistir.
-    
+  - 💬 I am 19 years old e atualmente moro no Brasil.Estou aprendendo python e javascript, está sendo uma experiência meio difícil, mas NÃO vou desistir.
  - ⚡ I enjoy reading, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
